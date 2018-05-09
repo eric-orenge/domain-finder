@@ -1,21 +1,20 @@
-#Command line tool for finding domain name
+# Command line tool for finding domain name
 
 Five small command-line programs `available , coolify, domainify, synonyms, thesaurus`, when composed together, produce powerful results while remaining modular.
 
-##How to check domain exists?
+## How to check domain exists?
 
 ```
-cd domainfinder
+cd domain-finder
 sudo chmod +x build.sh
 ./build.sh
 ./domainfinder
 ```
 
-##sample
+## sample
 
 ```
-$ 
-./domainfinder 
+$ ./domainfinder 
 chat
 confbsite.com Yes
 keconfabulatin.com Yes
